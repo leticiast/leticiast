@@ -16,5 +16,5 @@
 </div>  
 
 Currículo: 
- https://leticiast.github.io/leticia-araujo-nascimento.github.io/
+ https://leticiast.github.io/leticia-araujo.github.io/
   
